@@ -24,7 +24,6 @@ Throughout the development process, we'll utilize Python libraries such as NumPy
 # Integrating with Flask and E-Commerce Website:
 After building the recommendation system, we'll integrate it with a Flask web application to provide a user-friendly interface.
 The Flask application will include features such as user registration, product browsing, search functionality, and recommendation display.
-We'll leverage Flask's routing capabilities to handle user requests and render dynamic web pages with personalized recommendations.
 Furthermore, we'll implement user authentication and session management to ensure a secure and seamless browsing experience.
 The e-commerce website will feature product cards displaying essential information, including images, descriptions, prices, and ratings.
 Users will have the option to interact with the recommendation system by providing feedback, such as ratings and likes, to improve future recommendations.
