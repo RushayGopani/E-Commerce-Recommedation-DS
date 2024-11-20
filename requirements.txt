@@ -8,3 +8,4 @@ scipy
 os
 spacy
 random
+Gunicorn
